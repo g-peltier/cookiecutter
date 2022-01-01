@@ -2,5 +2,8 @@
     "project_name": "project_name",
     "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "package_name": "src",
-    "description": "Squelette d'un projet python"
+    "description": "Squelette d'un projet python",
+    "name": "Guillaume Peltier",
+    "mail": "guillaume.peltier.pro@gmail.com",
+    "python_version": "3.9"
 }
