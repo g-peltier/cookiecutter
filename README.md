@@ -1,4 +1,4 @@
-# true-neutral-cookiecutter
+# Cookiecutter
 A minimalist cookiecutter for research and data science projects
 
-Run via `cookiecutter gh:patrickmineault/true-neutral-cookiecutter`
+Run via `cookiecutter gh:g-peltier/cookiecutter`
