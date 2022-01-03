@@ -1,6 +1,9 @@
-**/.ipynb_checkpoints
-**/.DS_Store
+.ipynb_checkpoints
+.DS_Store
 data/*
 
-#Keep the folder
-!*/data/README.md
+**/*.ipynb
+**/*.pyc
+*/*.md
+
+!data/README.md
